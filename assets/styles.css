@@ -99,6 +99,7 @@ h1{
     background: -webkit-linear-gradient(top, #a5acbd 0%, #45484e 100%);
     background: -moz-linear-gradient(top, #a5acbd 0%, #45484e 100%);
     background: linear-gradient(top, #a5acbd 0%, #45484e 100%);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
